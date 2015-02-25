@@ -1,0 +1,20 @@
+<com.ivanutsalo.ivan.ingrastam.ScrollViewExt
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll_view_instagram"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal">
+
+<TableLayout
+    android:id="@+id/table_1_instagram"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="*"
+    tools:context="${relativePackage}.${activityClass}">
+
+</TableLayout>
+</com.ivanutsalo.ivan.ingrastam.ScrollViewExt>
+
+
